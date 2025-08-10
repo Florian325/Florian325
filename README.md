@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">Infusing German precision into software wonders, driven by passion</h3>
 
-- 🔭 I’m currently working on [das-dui](https://github.com/Florian325/das-dui)
+- 🔭 I’m currently working on a project developed during my "Facharbeit"(German)
 
 - ⚡ Fun fact **Did you know I like coding?**
 
